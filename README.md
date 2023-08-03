@@ -7,6 +7,7 @@ This page about How To Fix the “cURL Error 28: Connection Timed Out” with Cu
 ### Note:
 This solution is temporary until the problem is resolved by composer team
 
+## Problem Statment
 composer v1 was use many of servers for packages mirroring .
 
 but composer v2 do not use mirroring .
@@ -72,7 +73,7 @@ it will show you (composer v1 is deprcated) .. no problem .
 
 
 ...........................
-NOTE:
+Additional Info:
 some another mirrors
 
 ```
