@@ -71,23 +71,21 @@ open composer.json file in current project and add these lines to it
 and make composer update .
 it will show you (composer v1 is deprcated) .. no problem .
 
-
-...........................
-Additional Info:
+## Additional Info:
 some another mirrors
 
 ```
 Location | Mirror | Github | Sync
 ------- | -------- | -------- | --------
-Asia | packagist.kr | packagistkr/packagist-mirror | Every 60 seconds
-Asia | packagist.co.za | webysther/packagist-mirror | Every 24 hours
-Asia | mirrors.aliyun.com/composer | webysther/packagist-mirror | Every 24 hours
-Asia | packagist.in | webysther/packagist-mirror | Every 24 hours
-Europe | packagist.eu | webysther/packagist-mirror | Every 24 hours
-Europe | packagist.fr | webysther/packagist-mirror | Every 24 hours
-Europe | packagist.de | webysther/packagist-mirror | Every 24 hours
-North America | packagist.io | webysther/packagist-mirror | Every 24 hours
-North America | packagist.us | webysther/packagist-mirror | Every 24 hours
-South America | packagist.br | webysther/packagist-mirror | Every 24 hours
+Asia | packagist.kr | packagistkr/packagist-mirror
+Asia | packagist.co.za | webysther/packagist-mirror
+Asia | mirrors.aliyun.com/composer | webysther/packagist-mirror
+Asia | packagist.in | webysther/packagist-mirror
+Europe | packagist.eu | webysther/packagist-mirror
+Europe | packagist.fr | webysther/packagist-mirror
+Europe | packagist.de | webysther/packagist-mirror
+North America | packagist.io | webysther/packagist-mirror
+North America | packagist.us | webysther/packagist-mirror
+South America | packagist.br | webysther/packagist-mirror
 
 ```
